@@ -12,7 +12,7 @@ A fun, interactive **Rock Paper Scissors** web game built using HTML, CSS, and J
 
 ## 📸 Screenshot
 
-![Game Screenshot]("C:\Users\LENOVO\OneDrive\画像\Screenshots\Rock-Paper-Scissor.png")
+![Game Screenshot](<img width="1917" height="898" alt="Image" src="https://github.com/user-attachments/assets/0618fcb9-c8e2-4a01-8cd7-ff772187b408" />)
 
 ---
 
