@@ -6,7 +6,7 @@ A fun, interactive **Rock Paper Scissors** web game built using HTML, CSS, and J
 
 ## 🚀 Live Demo
 
-👉 [Click to Play](file:///C:/Users/LENOVO/OneDrive/Desktop/RPSgame/index.html)
+👉 [Click to Play](https://rps-game-puce.vercel.app/)
 
 ---
 
