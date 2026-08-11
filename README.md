@@ -8,7 +8,7 @@ A simple Rock Paper Scissors game made using HTML, CSS and JavaScript.
 
 ## Screenshot
 
-![Rock Paper Scissors Game](screenshot.png)
+![Rock Paper Scissors Game](game-screenshot.png)
 
 ## Features
 
